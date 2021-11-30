@@ -131,3 +131,10 @@
   }
 }
 ```
+
+## typescript scripts to run express server
+
+```
+
+
+```
