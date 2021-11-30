@@ -135,6 +135,9 @@
 ## typescript scripts to run express server
 
 ```
-
+    "tsc": "tsc",
+    "dev": "ts-node-dev index.ts",
+    "lint": "eslint --ext .ts .",
+    "start": "node build/index.js"
 
 ```
